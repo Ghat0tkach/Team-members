@@ -77,3 +77,8 @@
 .profile-bio{
    text-align: center;
 }
+
+@media (max-width:670px) {
+   .person-list{
+    font-size: 0.9rem  }
+}
