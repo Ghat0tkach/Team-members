@@ -1,0 +1,123 @@
+[
+  {
+    "name": "Samveg Shandilya",
+    "designation": "President",
+    "socialLinks": {
+      "github": "https://github.com/johndoe",
+      "linkedin": "https://www.linkedin.com/in/johndoe",
+      "twitter": "https://twitter.com/johndoe"
+    },
+    "image": "https://jlug.club/images/Samveg%20sir.jpg"
+  },
+  {
+    "name": "Preeti Patel",
+    "designation": "Vice President",
+    "socialLinks": {
+      "github": "https://github.com/janesmith",
+      "linkedin": "https://www.linkedin.com/in/janesmith",
+      "twitter": "https://twitter.com/janesmith"
+    },
+    "image": "https://jlug.club/images/Preeti%20Maam.jpg"
+  },
+  {
+    "name": "Suhani Yadav",
+    "designation": "Joint Secretary",
+    "socialLinks": {
+      "github": "https://github.com/mikejohnson",
+      "linkedin": "https://www.linkedin.com/in/mikejohnson",
+      "twitter": "https://twitter.com/mikejohnson"
+    },
+    "image": "https://jlug.club/images/suhani%20maam.jpg"
+  },
+  {
+    "name": "Rishabh Solanki",
+    "designation": "General Secretary",
+    "socialLinks": {
+      "github": "https://github.com/emilybrown",
+      "linkedin": "https://www.linkedin.com/in/emilybrown",
+      "twitter": "https://twitter.com/emilybrown"
+    },
+    "image": "https://jlug.club/images/rishabh%20sir.jpg"
+  },
+  {
+    "name": "Siddique Ahmed",
+    "designation": "Operational Head",
+    "socialLinks": {
+      "github": "https://github.com/alexwilson",
+      "linkedin": "https://www.linkedin.com/in/alexwilson",
+      "twitter": "https://twitter.com/alexwilson"
+    },
+    "image": "https://jlug.club/images/sidiquee%20sir.jpg"
+  },
+  {
+    "name": "Arpit Khanna",
+    "designation": "Cultural Head",
+    "socialLinks": {
+      "github": "https://github.com/alexwilson",
+      "linkedin": "https://www.linkedin.com/in/alexwilson",
+      "twitter": "https://twitter.com/alexwilson"
+    },
+    "image": "https://jlug.club/images/arpit%20sir.jpg"
+  },
+  {
+    "name": "Mustkeem Arsh",
+    "designation": "Operational Head",
+    "socialLinks": {
+      "github": "https://github.com/alexwilson",
+      "linkedin": "https://www.linkedin.com/in/alexwilson",
+      "twitter": "https://twitter.com/alexwilson"
+    },
+    "image": "https://jlug.club/images/MUSTKEEM%20SIR.jpg"
+  },
+  {
+    "name": "Klevin Pascal",
+    "designation": "Graphic Team Head",
+    "socialLinks": {
+      "github": "https://github.com/alexwilson",
+      "linkedin": "https://www.linkedin.com/in/alexwilson",
+      "twitter": "https://twitter.com/alexwilson"
+    },
+    "image": "https://jlug.club/images/1bd86083-912b-4c88-9cb2-2d956456a48f.jpg"
+  },
+  {
+    "name": "Saket Gupta",
+    "designation": "Public Relations Head",
+    "socialLinks": {
+      "github": "https://github.com/alexwilson",
+      "linkedin": "https://www.linkedin.com/in/alexwilson",
+      "twitter": "https://twitter.com/alexwilson"
+    },
+    "image": "https://jlug.club/images/SAKET%20SIR.jpg"
+  },
+  {
+    "name": "Ashwin Patel",
+    "designation": "Marketing Head",
+    "socialLinks": {
+      "github": "https://github.com/alexwilson",
+      "linkedin": "https://www.linkedin.com/in/alexwilson",
+      "twitter": "https://twitter.com/alexwilson"
+    },
+    "image": "https://jlug.club/images/ASHWIN%20SIR.jpg"
+  },
+  {
+    "name": "Ritik Patel",
+    "designation": "Curation Team Head",
+    "socialLinks": {
+      "github": "https://github.com/alexwilson",
+      "linkedin": "https://www.linkedin.com/in/alexwilson",
+      "twitter": "https://twitter.com/alexwilson"
+    },
+    "image": "https://jlug.club/images/e1644fa0-726d-4fa9-b470-d0f0718387b6.jpg"
+  },
+  {
+    "name": "Akshat Bansal",
+    "designation": "Content Team Head",
+    "socialLinks": {
+      "github": "https://github.com/alexwilson",
+      "linkedin": "https://www.linkedin.com/in/alexwilson",
+      "twitter": "https://twitter.com/alexwilson"
+    },
+    "image": "https://jlug.club/images/AKSHAT%20SIR.jpg"
+  }
+
+]

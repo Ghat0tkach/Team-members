@@ -1,0 +1,79 @@
+.heading{
+    text-align: center;
+    position: relative;
+    height: auto;
+    margin-bottom: 2rem;
+    padding: 0px 1rem;
+    z-index: 99;
+
+}
+.heading h1{
+    padding-top: 1.5rem;
+    font-size: 3.125rem;
+    font-weight: 700;
+    font-family: "Qanelas Soft", "Qanelas Soft", sans-serif;
+}
+
+.heading h3{
+    font-family: "Qanelas Soft", "Qanelas Soft", sans-serif;
+    margin: 0px;
+    font-size: 1/5rem;
+    font-weight: 500;
+}
+
+.profile-header{
+
+    display: block;
+    margin: auto;
+    border-radius: 100%;
+    overflow: hidden;
+    width: 140px;
+    height: 140px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 0px;
+    opacity: 0.9;
+}
+.profile-header img{
+    width: 100%;
+    object-fit: cover
+}
+
+.profile-header img:hover{
+    transform: scale(1.2);
+    transition: all 2s cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+.person-list{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 15px;
+    margin-right:-15px;
+    padding:2rem;
+}
+
+
+.person-box{
+    padding: 2rem;
+    width: 260px;
+    border-radius: 2px;
+    overflow: hidden;
+    box-shadow: rgba(255, 248, 248, 0.1) 0px 2px 2px 0px;
+    position: relative;
+    margin: auto auto 2.5rem;
+    background: rgb(18, 18, 18);
+    top: 50%;
+    height: 255px;
+    transition: all 0.8s cubic-bezier(0.2, 0.8, 0.2, 1) 0s;
+}
+
+.person-box:hover{
+    background: rgb(0, 179, 159);
+    border-radius: 0px 3rem 0px 0px;
+}
+
+.social-link svg{
+    fill: #fff;
+    margin:0 10px;
+}
+.profile-bio{
+   text-align: center;
+}
