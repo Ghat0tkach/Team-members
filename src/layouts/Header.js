@@ -11,7 +11,7 @@ function Header() {
          </div>
         
           <ul>
-            <li><a href=''></a></li>
+            
             <li><a href=''>Team</a></li>
             <li><a href=''>Past Events</a></li>
             <li><a href=''>About Us</a></li>
